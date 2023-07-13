@@ -8,6 +8,9 @@
 ```npm install```
 ## Start React 
 ```npm start```
+##**execute shell**
+npm --prefix "./app" install
+npm --prefix "./app" run build
 
 
 ## Open another Terminal
